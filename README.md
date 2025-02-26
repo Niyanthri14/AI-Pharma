@@ -4,9 +4,13 @@ Project Overview: AI-Pharma is an AI-powered platform designed to analyze prescr
 
 
 Features
+
 ✅ AI-based prescription text extraction
+
 ✅ AI-driven medicine recommendations
+
 ✅ Secure, HIPAA-compliant data processing
+
 ✅ User-friendly dashboard for insights
 
 
