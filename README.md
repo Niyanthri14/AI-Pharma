@@ -79,9 +79,16 @@ To use Google Vision API, you must set up your own credentials:
 
 **Running the Project**
 
-Once setup is complete, run: streamlit run app.py
+- Once setup is complete, run: streamlit run app.py
 
-This will launch AI-Pharma in your web browser.
+- This will launch AI-Pharma in your web browser.
+
+- You can navigate using the sidebar in the website.
+
+- In the Upload Analyze page, you can browse documents and add one of the prescriptions availabe in the assets file
+
+- After analysing it will extract the text 
+
 
 
 
