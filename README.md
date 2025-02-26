@@ -1,6 +1,6 @@
-_**AI-Pharma**_
+_**CuraAI**_
 ----------------------
-Project Overview: AI-Pharma is an AI-powered platform designed to analyze prescriptions and recommend medicines. It leverages Google Vision API and machine learning to extract and interpret handwritten prescriptions, improving accuracy and reducing prescription errors.
+Project Overview: CuraAI is an AI-powered platform designed to analyze prescriptions and recommend medicines. It leverages Google Vision API and machine learning to extract and interpret handwritten prescriptions, improving accuracy and reducing prescription errors.
 
 
 **Features**
